@@ -30,7 +30,7 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 <br>
 <br>In accordance with the instructions from the Online Store Owner, as a Data Analyst I was asked to make modifications to the table by adding new features for business development purposes. 
 The initial table only consists of Sales, Order, Products and Customers tables. To fulfil the business needs, I added new tables such as :
-<br>![Screenshot 2024-11-06 223837](https://github.com/user-attachments/assets/bf0e93c7-5721-4a73-bc25-5a33f5a0241e)
+<br>![image](https://github.com/user-attachments/assets/053035c2-0f55-423e-81e9-09ae64ec5361)
 <br>![image](https://github.com/user-attachments/assets/a0fd628a-7832-4b4b-8fd1-f1b72d18590f)
 
 
