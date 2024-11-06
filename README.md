@@ -96,4 +96,8 @@ The initial table only consists of Sales, Order, Products and Customers tables. 
 ![image](https://github.com/user-attachments/assets/f63e7178-4ec3-473e-a619-90c0ac7bb5ef)
 ![image](https://github.com/user-attachments/assets/61125ecb-78fa-4870-961f-a5c22cf7f1d0)
 
-14. 
+14. **Table 14: Vouchers**
+<br> Manages discount codes and vouchers that customers can apply to orders.
+![image](https://github.com/user-attachments/assets/af2c05bb-304d-45ee-99b7-806e5678450f)
+![image](https://github.com/user-attachments/assets/1dc921c5-4f03-40c3-8f54-a55d368d0f0f)
+
