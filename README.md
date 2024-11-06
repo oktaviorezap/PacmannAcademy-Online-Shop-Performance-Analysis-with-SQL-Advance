@@ -4,8 +4,8 @@
 </div>
 
 # Exercise Answer and SQL Script
-1. Performance Analysis Answer (Exercise) : [Exercice SQL Week 4 (Mentoring 2) Answer Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL/blob/main/Online%20Shop%20Platform%20Performance%20Analysis%20(Exercise%20Week%204)%20-%20Oktavio%20Reza%20Putra.pdf)
-2. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL/blob/main/Oktavio%20Reza%20Putra_Exercise%20Week%204%20-%20Mentoring%202.sql)
+1. Performance Analysis Answer (Exercise) : [Exercice SQL Week 6 (Mentoring 3) Answer Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Exercise%20Week%206%20-%20Oktavio%20Reza%20Putra.pdf)
+2. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Oktavio%20Reza%20Putra_Exercise%20Week%206%20-%20Mentoring%203.sql)
 
 # Task Description
 As a data analyst in an emerging online shopping platform, the manager has requested the following tasks:
