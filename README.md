@@ -4,7 +4,7 @@
 </div>
 
 # Exercise Answer and SQL Script
-1. Performance Analysis Answer (Exercise) : [Exercice SQL Week 6 (Mentoring 3) Answer Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Exercise%20Week%206%20-%20Oktavio%20Reza%20Putra.pdf)
+1. Performance Analysis Answer (Exercise) : [Exercise SQL Week 6 (Mentoring 3) Answer Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Exercise%20Week%206%20-%20Oktavio%20Reza%20Putra.pdf)
 2. SQL Script with DBeaver : [SQL Script Link](https://github.com/oktaviorezap/PacmannAcademy-Online-Shop-Performance-Analysis-with-SQL-Advance/blob/main/Oktavio%20Reza%20Putra_Exercise%20Week%206%20-%20Mentoring%203.sql)
 
 # Task Description
