@@ -76,4 +76,24 @@ The initial table only consists of Sales, Order, Products and Customers tables. 
 ![image](https://github.com/user-attachments/assets/63d376d0-30f7-46e9-975c-4378591f8b36)
 ![image](https://github.com/user-attachments/assets/1aa2f423-9cf5-443f-9222-587e72ef68e4)
 
-10. 
+10. **Table 10: Customer Loyalty Point**
+<br> Tracks loyalty points that customers earn, which can be used for future discounts.
+![image](https://github.com/user-attachments/assets/43d3b322-55a8-4515-96bf-e535ecffb82c)
+![image](https://github.com/user-attachments/assets/764c45f4-999e-4777-a544-c4b299b481d7)
+
+11. **Table 11: Product Views Search History**
+<br> Logs viewed products to recommend items based on customers' browsing history.
+![image](https://github.com/user-attachments/assets/3cefa9b4-49b2-44b2-a11f-30f0707a10f6)
+![image](https://github.com/user-attachments/assets/30fc2709-bf2a-4885-9a07-6f2871013cea)
+
+12. **Table 12: Security Settings**
+<br> Stores security settings, such as two-factor authentication, for each customer.
+![image](https://github.com/user-attachments/assets/87a122a8-a385-4afc-add9-8be893201a93)
+![image](https://github.com/user-attachments/assets/3344fc72-62f5-45be-ad44-1071781795c8)
+
+13. **Table 13: Customer Preferences**
+<br>Stores customer preferences, such as favorite categories or subscription status.
+![image](https://github.com/user-attachments/assets/f63e7178-4ec3-473e-a619-90c0ac7bb5ef)
+![image](https://github.com/user-attachments/assets/61125ecb-78fa-4870-961f-a5c22cf7f1d0)
+
+14. 
