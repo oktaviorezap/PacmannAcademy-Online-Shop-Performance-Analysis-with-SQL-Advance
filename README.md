@@ -33,7 +33,7 @@ The initial table only consists of Sales, Order, Products and Customers tables. 
 <br>
 1. **List Area Store Manager**
 <br> Contains details about areamanagers overseeing multiplestores.
-![image](https://github.com/user-attachments/assets/f4a72006-7b23-4681-93f4-ffde13afe402)
- 
+![image](https://github.com/user-attachments/assets/a30a94ad-4e5b-4fef-87c3-579ded6bcd7a)
+![image](https://github.com/user-attachments/assets/f4a72006-7b23-4681-93f4-ffde13afe402) 
 
 
