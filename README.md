@@ -23,3 +23,10 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 <div align="center">
   <img src="https://github.com/user-attachments/assets/cab843bc-6bc9-4d70-99b6-c4ba8e2ff763" width="500" height="400">
 </div>
+
+
+# Entity Relationship Diagram (ERD) Design (After)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b59131af-97f3-492a-9248-d84d7b848524" width="500" height="400">
+</div>
+
