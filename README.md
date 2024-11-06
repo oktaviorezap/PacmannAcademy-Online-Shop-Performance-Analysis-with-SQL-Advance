@@ -27,4 +27,9 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 
 # Entity Relationship Diagram (ERD) Design (After)
 ![ERD Number 1 - Exercise Week 6 Mentoring 3](https://github.com/user-attachments/assets/d7556e18-c411-418c-93e1-5175d94f9f32)
+<br>In accordance with the instructions from the Online Store Owner, as a Data Analyst I was asked to make modifications to the table by adding new features for business development purposes. 
+The initial table only consists of Sales, Order, Products and Customers tables. To fulfil the business needs, I added new tables such as :
+<br>![Screenshot 2024-11-06 223837](https://github.com/user-attachments/assets/bf0e93c7-5721-4a73-bc25-5a33f5a0241e)
+<br>![image](https://github.com/user-attachments/assets/a0fd628a-7832-4b4b-8fd1-f1b72d18590f)
+
 
