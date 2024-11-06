@@ -26,7 +26,5 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 
 
 # Entity Relationship Diagram (ERD) Design (After)
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b59131af-97f3-492a-9248-d84d7b848524" width="3703" height="2593">
-</div>
+![ERD Number 1 - Exercise Week 6 Mentoring 3](https://github.com/user-attachments/assets/d7556e18-c411-418c-93e1-5175d94f9f32)
 
