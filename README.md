@@ -30,17 +30,17 @@ As a data analyst in an emerging online shopping platform, the manager has reque
 <br>
 <br>In accordance with the instructions from the Online Store Owner, as a Data Analyst I was asked to make modifications to the table by adding new features for business development purposes. 
 The initial table only consists of Sales, Order, Products and Customers tables. To fulfil the business needs, I added new tables such as :
-<br>
+
 1. **List Area Store Manager**
 <br> Contains details about areamanagers overseeing multiplestores.
 ![image](https://github.com/user-attachments/assets/a30a94ad-4e5b-4fef-87c3-579ded6bcd7a)
 ![image](https://github.com/user-attachments/assets/f4a72006-7b23-4681-93f4-ffde13afe402) 
-<br>
+
 2. **List Store Manager**
 <br> Stores information on store managers who manage individual stores.
 ![image](https://github.com/user-attachments/assets/8f4db1d7-8f4a-4492-a806-1ab2a96ceb18)
 ![image](https://github.com/user-attachments/assets/aae63488-cff7-4794-92cb-2aa508647932)
-<br>
+
 3. **Store Territory**
 4. 
 
