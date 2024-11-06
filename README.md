@@ -11,6 +11,7 @@
 As a data analyst in an emerging online shopping platform, the manager has requested the following tasks:
 <br> 1. Provide insights from the current transaction and customer history.
 <br> 2. Design the necessary tables for new features.
+<br> 3. Modify the table to meet the needs of stores that are expanding stores in various regions in order to reach more customers. Therefore, as a Data Analyst, I created new supporting features and tables to store these data to make it easier for Stores to conduct analyses and of course to satisfy user customers who want to shop online to continue to shop at this Online Store.
 
 # The Dataset
 <br>This database provides an insight about a simple online shop application, including product details, customer information, order and sales information. 
